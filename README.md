@@ -8,10 +8,7 @@
 <img src="img/img_nlw.jpg">
 
 <h1>Start</h1>
-    
 
-    
-    <p>
     #Backend
     npm install             // Instala dependências
     npm run knex:migrate    // Cria tabelas
@@ -25,4 +22,3 @@
     #Mobile
     yarn install            // Instala dependências
     yarn start              // Executa mobile - http://localhost:19002
-    </p>
